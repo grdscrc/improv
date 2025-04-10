@@ -26,6 +26,7 @@ Jennifer !!
 Vanessa !!
 Yan !!
 Nicolas !!
+Chris !!
 Mathieu !!
 Yanou !!
 Aux platines Aurélien !!
@@ -41,7 +42,16 @@ Allez David !? Non tu fais ton timide ? Bon ok la prochaine fois alors
 Et Bertrand Blier !!
 Ah non pas possible, sacré Bertrand, au moins tu t'es assagi mais bon un poil trop si je me permets
 
-<Concept, puis equipes, puis theme1>
+[Concept]
+Je vais vous décrire ce qui va se passer : je vais séparer cette troupe en deux équipes, A et B, et la soirée se déroulera en deux parties. Dans la première, l'équipe A jouera, et l'équipe B écrira. Après l'entracte, l'équipe B jouera et l'équipe A ira sur Vinted - non pardon, l'équipe A écrira.
+Chaque partie sera en 5 chapitres de 6 minutes, durant lesquels les joueurs joueront de l'impro - ca ils savent faire vous verrez - et les non-joueurs s'assieront. Avant chaque chapitre, je dirai aux assis ce qu'il faudra décrire : un personnage, un lieu, une réplique, un objet, une façon pour moi de récupérer la garde de mes enfants... Je vais peut-être enlever ce dernier élément. Puis entre les chapitres, je convierai un improvisateur qui a écrit près de la scène - je réserve le mot "écrivain" aux professionnels comme moi. Enfin, au chapitre qui suivra, les joueurs devront intégrer cette nouveauté dans l'improvisation.
+
+
+[Equipes]
+  L     J V
+M Y y   C N
+
+<Puis theme1 au public>
 
 ===
 [Reprise]
@@ -67,6 +77,8 @@ Me revoilà, Fabrice Pigeonneau, capitaine de notre paquebot littéraire et touj
 <Theme2>
 
 <Trouver une conclusion>
+Mon avocat vient de m'envoyer un sms, si je lis encore un extrait d'un de mes livres les huissiers vont désosser mon opel Xantia. Mais je pense que vous avez eu assez de divertissement pour ce soir avec ces improvisations absolument superbes que je vais pouvoir adapter dans des best-sellers garantis.
+<Inventer autres noms (bien ringards) pour les adaptations>
 
 Et merci à
 Laura !!
@@ -74,12 +86,13 @@ Jennifer !!
 Vanessa !!
 Yan !!
 Nicolas !!
+Chris !!
 Mathieu !!
 Yanou !!
 Aurélien le dj !!
 El famoso Bernard du patronage !!
 Les ptits poussins de la Basse Cour pour leur bénévolat !! Enfin bénévolat ils sont étudiants on va au moins leur payer des shooters
-Les +1 des Sales Gousse qui ont aidé !!
+Les +1 des Sales Gousses qui ont aidé !!
 Sylvain et ses filles, Sidonie et Léontine !! <Remplacer par les vrais prénoms ou il reviendra pas>
 <Un joueur>: Igor le MC dans le rôle de Fabrice Pigeonneau !!
 Et bien entendu, vous public !!
